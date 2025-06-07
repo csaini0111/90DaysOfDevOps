@@ -1,4 +1,4 @@
-# #90DaysOfDevOps Challenge
+# #chings Challenge
 
 ## Learn, Upskill, Grow with the Community
 
