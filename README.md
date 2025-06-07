@@ -1,4 +1,4 @@
-# #chings Challenge
+# #chings Challenge: yo bro
 
 ## Learn, Upskill, Grow with the Community
 
